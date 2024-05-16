@@ -542,4 +542,6 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/vim,venv,code,pydev,linux,nanoc,macos,emacs,flask,python,django,windows,notepadpp,virtualenv,tortoisegit,sublimetext,jetbrains+all,jupyternotebooks
 
 .ipynb_checkpoints
-
+*.zip
+*csv
+*h5
